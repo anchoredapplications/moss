@@ -1,0 +1,4 @@
+imageNotChanged
+/usr/bin/moss_app/OS_Ubuntu.png
+/usr/bin/moss_app/OS_Windows.png
+

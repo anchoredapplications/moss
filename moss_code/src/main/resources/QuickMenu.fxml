@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="236.0" prefWidth="391.0" stylesheets="@gui.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ControllerQuickMenu">
+   <children>
+      <Button id="button1" fx:id="btnOS1" focusTraversable="true" layoutX="52.0" layoutY="87.0" mnemonicParsing="false" onAction="#bootOS1" prefHeight="65.0" prefWidth="65.0" style="-fx-background-radius: 360;" stylesheets="@gui.css" AnchorPane.bottomAnchor="83.4" AnchorPane.leftAnchor="52.0" AnchorPane.topAnchor="85.0">
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Button>
+      <Button id="button2" fx:id="btnOS2" focusTraversable="true" layoutX="163.0" layoutY="87.0" mnemonicParsing="false" onAction="#bootOS2" prefHeight="65.0" prefWidth="65.0" style="-fx-background-radius: 360;" styleClass="button" stylesheets="@gui.css" AnchorPane.bottomAnchor="83.4" AnchorPane.rightAnchor="162.4" AnchorPane.topAnchor="85.0">
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Button>
+      <Button id="button3" fx:id="btnPower" focusTraversable="true" layoutX="273.4" layoutY="86.0" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#shutDown" prefHeight="65.0" prefWidth="65.0" style="-fx-background-radius: 360;" styleClass="button" stylesheets="@gui.css" AnchorPane.bottomAnchor="84.4" AnchorPane.rightAnchor="52.0" AnchorPane.topAnchor="85.0">
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Button>
+      <Button id="buttonSettings" fx:id="btnSettings" layoutX="-1.0" layoutY="-2.0" mnemonicParsing="false" onAction="#doSettings" prefHeight="30.0" prefWidth="30.0" stylesheets="@gui.css" AnchorPane.leftAnchor="3.0" AnchorPane.topAnchor="3.0">
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor></Button>
+      <Button id="buttonExit" fx:id="btnExit" layoutX="316.0" layoutY="-1.0" mnemonicParsing="false" onAction="#doExit" prefHeight="30.0" prefWidth="30.0" stylesheets="@gui.css" AnchorPane.rightAnchor="3.0" AnchorPane.topAnchor="3.0">
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor></Button>
+   </children>
+</AnchorPane>

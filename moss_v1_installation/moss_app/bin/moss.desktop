@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=MOSS
+Comment=Multiple Operating System Superintendent
+Exec=java -jar /usr/bin/moss_app/moss_application.jar
+Icon=/usr/bin/moss_app/moss.png
+Terminal=false
+Categories=Application;

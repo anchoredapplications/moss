@@ -1,0 +1,45 @@
+.root { 
+
+}
+
+
+#button1 {
+	-fx-focus-traversable: false;
+
+    -fx-background-size: 50px 50px;
+   	-fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#button2 {
+	-fx-focus-traversable: false;
+    -fx-background-size: 40px 40px;
+   	-fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#button3 {
+	-fx-focus-traversable: false;
+	    -fx-background-image: url(power.png);
+    -fx-background-size: 50px 50px;
+   	-fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#buttonSettings {
+	-fx-focus-traversable: false;
+	-fx-background-image: url(settings.png);
+	-fx-background-color: transparent;
+    -fx-background-size: 30px 30px;
+   	-fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#buttonExit {
+	-fx-focus-traversable: false;
+	-fx-background-image: url(exit.png);
+	-fx-background-color: transparent;
+    -fx-background-size: 23px 23px;
+   	-fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+.button{
+    -fx-focus-traversable: false;
+  }
+  

@@ -1,0 +1,8 @@
+BootCurrent: 0000
+Timeout: 0 seconds
+BootOrder: 0000,0002,2001,2002,2003
+Boot0000* ubuntu
+Boot0002* Windows Boot Manager
+Boot2001* EFI USB Device
+Boot2002* EFI DVD/CDROM
+Boot2003* EFI Network

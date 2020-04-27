@@ -1,0 +1,12 @@
+[Unit]
+Description=MOSS service
+After=network.target
+[Service]
+ExecStart=/usr/bin/moss_app/bin/bash/moss_trial.sh
+Restart=always
+RestartAfterExit=yes
+User=root
+Group=root
+
+[Install]
+WantedBy=multi-user.target
