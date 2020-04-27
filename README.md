@@ -70,14 +70,14 @@ Expected Benefits
 -----------------
 
 1.  Decreased boot time and complexity on multiboot systems -- Making
-    > multiboot systems more useful to consumers, both in industry and
-    > in the home.
+    multiboot systems more useful to consumers, both in industry and
+    in the home.
 
 2.  Encourage users to use multiboot systems by increased efficiency and
-    > user-friendliness.
+    user-friendliness.
 
 3.  Potentially adding business value to the Linux Foundation and/or
-    > Microsoft Corporation
+    Microsoft Corporation
 
 Scope
 -----
@@ -120,12 +120,6 @@ met according to the listed specifications.
 
 If the MOSS project does meet any one of the above criteria, it has
 failed.
-
-  **Completed By:**    **Jeremiah Gage**
-  -------------------- -------------------
-  **Date:**            **4/28/2020**
-  **Project Title:**   **MOSS**
-  **Reviewed By:**     **Cheri Kembell**
 
 Technical Requirements Document 
 ===============================
@@ -366,11 +360,6 @@ drive\\partition's information.
 
 -   GRUB -- GRand Unified Bootloader
 
-  **Project Name:**      **MOSS**
-  ---------------------- -------------------
-  **Date:**              **4/28/2020**
-  **Prepared By:**       **Jeremiah Gage**
-  **Document Status:**   **Approved**
   
 User's Manual
 =============
@@ -430,20 +419,20 @@ QuickMenu
 The QuickMenu has five buttons. They are:
 
 -   **BootPrimary:** The first (left-to-right) of the three main
-    > buttons. It boots into the first OS on the boot order. It will not
-    > change the boot order next time you restart the PC.
+    buttons. It boots into the first OS on the boot order. It will not
+    change the boot order next time you restart the PC.
 
 -   **BootSecondary:** The second (left-to-right) of the three main
-    > buttons. It boots into the second OS on the boot order. It will
-    > not change the boot order next time you restart the PC.
+    buttons. It boots into the second OS on the boot order. It will
+    not change the boot order next time you restart the PC.
 
 -   **PowerOff:** The last (left-to-right) of the three main buttons. It
-    > powers off the system.
+    powers off the system.
 
 -   **Exit:** Located at the top right, it closes the QuickMenu window.
 
 -   **Config:** Located at the top left of the QuickMenu pane, this
-    > button takes you to the BootMenu pane.
+    button takes you to the BootMenu pane.
 
 BootMenu
 --------
@@ -451,14 +440,14 @@ BootMenu
 The BootMenu has three buttons. They are:
 
 -   **Load:** Loads all local boot options to the pane. You will only
-    > see boot options that were installed prior to your current boot,
-    > so you will need to restart your PC if you want to see any recent
-    > additions (i.e. bootable flash drive, etc.).
+    see boot options that were installed prior to your current boot,
+    so you will need to restart your PC if you want to see any recent
+    additions (i.e. bootable flash drive, etc.).
 
 -   **Boot:** Boots into whatever boot option is currently selected.
 
 -   **Set:** Saves the image path (primary and secondary only) and boot
-    > position of the selected boot.
+    position of the selected boot.
 
 Change Image
 ------------
