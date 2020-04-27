@@ -23,7 +23,7 @@ For a full introduction, see MOSS_v1_Documentation_Gage.pdf
 ------------------------------------------------------------------
 System Requirements
 
-MOSS was designed for Ubuntu 19.10 or newer installations, but should 
+MOSS was originally designed for Ubuntu 18.04 or newer installations, but should 
 work on similar Linux distros. 
 ------------------------------------------------------------------
 Program Dependencies
