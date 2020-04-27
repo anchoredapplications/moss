@@ -24,7 +24,7 @@ And follow the resulting prompts.
 ------------------------------------------------------------------
 Installation
 
-Download the MOSS application and save the folder to a location where you can easily access it. Once saved, you can install MOSS with the following steps:
+Download the MOSS application zip folder (moss_v1_installation.zip) and extract the folder to a location where you can easily access it. Once extracted, you can install MOSS with the following steps:
 
  1. Open the folder and right-click in any open space. 
  2. Select “Open in terminal” 
