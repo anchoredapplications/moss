@@ -1,124 +1,5 @@
- ![](media/image13.png){width="4.166666666666667in"
-height="1.6145833333333333in"}
-
-Created by Jeremiah Gage
-
-April 30, 2020
-
-![](media/image22.png){width="8.666666666666666in"
-height="0.8333333333333334in"}
-
-**Table of Contents**
-
-![horizontal line](media/image22.png){width="6.5in"
-height="2.7777777777777776e-2in"}
-
-**[Executive Summary](#executive-summary) 4**
-
-**[Project Definition Document](#project-definition-document) 5**
-
-> [Purpose](#purpose) 5
->
-> [Goals and Objectives](#goals-and-objectives) 5
->
-> [Project Context](#project-context) 5
->
-> [Expected Benefits](#expected-benefits) 6
->
-> [Scope](#scope) 6
->
-> [Stakeholders](#stakeholders) 6
->
-> [Success Criteria](#success-criteria) 7
-
-**[Technical Requirements Document](#technical-requirements-document)
-8**
-
-> [1. Introduction](#introduction) 8
->
-> [1.1 Purpose of This Document](#purpose-of-this-document) 8
->
-> [1.2 How to Use This Document](#how-to-use-this-document) 8
->
-> [Types of Reader](#types-of-reader) 9
->
-> [Technical Background Required](#technical-background-required) 9
->
-> [Overview Sections](#overview-sections) 9
->
-> [1.3 Scope of the Product](#scope-of-the-product) 9
->
-> [1.4 Business Case for the Product](#business-case-for-the-product) 9
->
-> [1.5 Overview of the Requirements
-> Document](#overview-of-the-requirements-document) 10
->
-> [2. General Description](#general-description) 10
->
-> [2.1 Product Perspective](#product-perspective) 10
->
-> [2.2 Product Functions](#product-functions) 11
->
-> [2.3 User Characteristics](#user-characteristics) 11
->
-> [2.4 Assumptions and Dependencies](#assumptions-and-dependencies) 11
->
-> [3. Specific Requirements](#specific-requirements) 11
->
-> [3.1 User Requirements](#user-requirements) 12
->
-> [3.2 System Requirements](#system-requirements) 12
->
-> [4. Mock-Ups](#mock-ups) 12
->
-> [5. Glossary](#glossary) 13
-
-**[Project Schedule](#project-schedule) 14**
-
-**[Status Reports](#status-reports) 15**
-
-> [Status Report \#1](#status-report-1) 16
->
-> [Status Report \#2](#status-report-2) 18
->
-> [Status Report \#3](#status-report-3) 20
->
-> [Status Report \#4](#status-report-4) 22
->
-> [Status Report \#5](#status-report-5) 24
->
-> [Status Report \#6](#status-report-6) 26
-
-**[User's Manual](#users-manual) 28**
-
-**[User's Manual: Table of Contents](#users-manual-table-of-contents)
-29**
-
-> [Requirements](#requirements) 30
->
-> [System Requirements](#system-requirements-1) 30
->
-> [Program Dependencies](#program-dependencies) 30
->
-> [Installation](#installation) 30
->
-> [Set Up](#set-up) 31
->
-> [QuickMenu](#quickmenu) 31
->
-> [BootMenu](#bootmenu) 31
->
-> [Change Image](#change-image) 32
->
-> [Change Boot Order](#change-boot-order) 33
-
 Executive Summary
 =================
-
-for MOSS Project (version 1.0)
-
-![horizontal line](media/image22.png){width="6.5in"
-height="2.7777777777777776e-2in"}
 
 Computers with multiple operating systems installed, otherwise known as
 **multiboot systems**, have become more common over the last few years.
@@ -149,11 +30,6 @@ multibooting, not just the computer proficient.
 
 Project Definition Document 
 ===========================
-
-for MOSS Project (version 2.0)
-
-![horizontal line](media/image22.png){width="6.5in"
-height="2.7777777777777776e-2in"}
 
 Purpose
 -------
@@ -226,8 +102,7 @@ Stakeholders
 
 3.  Microsoft Corporation.
 
-4.  Industries that use multiple operating systems on a day-to-day
-    > basis.
+4.  Industries that use multiple operating systems on a day-to-day basis.
 
 5.  Individuals with personal computers.
 
@@ -237,8 +112,7 @@ Success Criteria
 The MOSS project will have been a success if the following criteria are
 met according to the listed specifications.
 
--   Compatible with multiple operating systems (Minimum: Windows 10 and
-    > Ubuntu 18.04).
+-   Compatible with multiple operating systems (Minimum: Windows 10 and Ubuntu 18.04).
 
 -   Decreases boot time on all compatible operating systems.
 
@@ -256,11 +130,6 @@ failed.
 Technical Requirements Document 
 ===============================
 
-for MOSS Project (version 3.0)
-
-![horizontal line](media/image22.png){width="6.5in"
-height="2.7777777777777776e-2in"}
-
 **1. Introduction** 
 -------------------
 
@@ -275,26 +144,26 @@ This document is intended to guide development of MOSS. It will go
 through several stages during the course of the project:
 
 1.  **Draft:** The first version, or draft version, is compiled after
-    > requirements have been discovered, recorded, classified, and
-    > prioritized.
+    requirements have been discovered, recorded, classified, and
+    prioritized.
 
 2.  **Proposed:** The draft document is then proposed as a potential
-    > requirements specification for the project. The proposed document
-    > should be reviewed by several parties, who may comment on any
-    > requirements and any priorities, either to agree, to disagree, or
-    > to identify missing requirements. Readers include end-users,
-    > developers, project managers, and any other stakeholders. The
-    > document may be amended and re-proposed several times before
-    > moving to the next stage.
+    requirements specification for the project. The proposed document
+    should be reviewed by several parties, who may comment on any
+    requirements and any priorities, either to agree, to disagree, or
+    to identify missing requirements. Readers include end-users,
+    developers, project managers, and any other stakeholders. The
+    document may be amended and re-proposed several times before
+    moving to the next stage.
 
 3.  **Validated:** Once the various stakeholders have agreed to the
-    > requirements in the document, it is considered validated.
+    requirements in the document, it is considered validated.
 
 4.  **Approved:** The validated document is accepted by representatives
-    > of each party of stakeholders as an appropriate statement of
-    > requirements for the project. The developers then use the
-    > requirements document as a guide to implementation and to check
-    > the progress of the project as it develops.
+    of each party of stakeholders as an appropriate statement of
+    requirements for the project. The developers then use the
+    requirements document as a guide to implementation and to check
+    the progress of the project as it develops.
 
 1.2 How to Use This Document
 ----------------------------
@@ -357,8 +226,7 @@ include:
 
 3.  Microsoft Corporation.
 
-4.  Industries that use multiple operating systems on a day-to-day
-    > basis.
+4.  Industries that use multiple operating systems on a day-to-day basis.
 
 5.  Individuals with personal computers.
 
@@ -368,14 +236,14 @@ include:
 Benefits of the MOSS project include:
 
 1.  Decreased boot time and complexity on multiboot systems -- Making
-    > multiboot systems more useful to consumers, both in industry and
-    > in the home.
+    multiboot systems more useful to consumers, both in industry and
+    in the home.
 
 2.  Encourage users to use multiboot systems by increased efficiency and
-    > user-friendliness.
+    user-friendliness.
 
 3.  Potentially adding business value to the Linux Foundation and/or
-    > Microsoft Corporation.
+    Microsoft Corporation.
 
 2. General Description
 ----------------------
@@ -449,14 +317,14 @@ This section of the document lists specific requirements for MOSS.
 Requirements are divided into the following sections:
 
 1.  User requirements. These are requirements written from the point of
-    > view of end users, usually expressed in narrative form.
+    view of end users, usually expressed in narrative form.
 
 2.  System requirements. These are detailed specifications describing
-    > the functions the system must be capable of doing.
+    the functions the system must be capable of doing.
 
 3.  Interface requirements. These are requirements about the user
-    > interface, which may be expressed as a list, as a narrative, or as
-    > images of screen mock-ups.
+    interface, which may be expressed as a list, as a narrative, or as
+    images of screen mock-ups.
 
 3.1 User Requirements
 ---------------------
@@ -482,16 +350,10 @@ consists of a simple display with the MOSS system's base functionality.
 This page is designed to allow the user to quickly switch between
 operating systems.
 
-![](media/image5.png){width="4.677083333333333in"
-height="2.75795384951881in"}
-
 The second page relates to the settings and preferences of the MOSS
 application. This page is equipped with a scrolling list of the system's
 drives and partitions, and fields illustrating the selected
 drive\\partition's information.
-
-![](media/image2.png){width="3.557292213473316in"
-height="2.588001968503937in"}
 
 5. Glossary 
 -----------
@@ -509,121 +371,9 @@ height="2.588001968503937in"}
   **Date:**              **4/28/2020**
   **Prepared By:**       **Jeremiah Gage**
   **Document Status:**   **Approved**
-
-Project Schedule 
-================
-
-for MOSS Project (version 2.0)
-
-![horizontal line](media/image22.png){width="6.5in"
-height="2.7777777777777776e-2in"}
-
-![](media/image15.png){width="6.46875in" height="5.458333333333333in"}
-======================================================================
-
-Status Reports
-==============
-
-for MOSS Project
-
-![horizontal line](media/image22.png){width="6.5in"
-height="2.7777777777777776e-2in"}
-
-The following is a collection of status reports for the MOSS project.
-These reports were submitted intermittently, upon request, between the
-dates 1/23/2020 and 4/30/2020. These reports were used as progress
-checks of the MOSS software during its development. They were submitted
-by Jeremiah Gage in the duration of Senior Project in Computer Science
-(CSC 463-01) at College of the Ozarks*.* The reports were assessed by
-Cheri Kembell over the course of the Spring 2020 semester.
-
-All documents were recorded here as they were originally submitted.
-Minimal formatting changes were made for inclusion here.
-
-Status Report \#1 
------------------
-
-![](media/image11.png){width="6.09375in" height="7.819786745406824in"}
-----------------------------------------------------------------------
-
-![](media/image3.png){width="6.09375in" height="7.819786745406824in"}
-=====================================================================
-
-Status Report \#2
------------------
-
-![](media/image7.png){width="6.09375in" height="7.819786745406824in"}
-
-![](media/image16.png){width="6.09375in" height="7.819786745406824in"}
-======================================================================
-
-Status Report \#3
------------------
-
-![](media/image12.png){width="6.09375in" height="7.819786745406824in"}
-
-![](media/image18.png){width="6.09375in" height="7.819786745406824in"}
-
-Status Report \#4
------------------
-
-![](media/image17.png){width="6.09375in" height="7.819786745406824in"}
-
-![](media/image14.png){width="6.09375in" height="7.819786745406824in"}
-
-Status Report \#5
------------------
-
-![](media/image10.png){width="6.088542213473316in"
-height="7.81623031496063in"}
-
-![](media/image6.png){width="6.09375in" height="7.819786745406824in"}
-
-Status Report \#6
------------------
-
-![](media/image20.png){width="6.0in" height="7.739583333333333in"}
-
-![](media/image19.png){width="6.041666666666667in" height="7.760416666666667in"}
-================================================================================
-
-![horizontal line](media/image22.png){width="6.5in" height="0.4947922134733158in"}
-==================================================================================
-
+  
 User's Manual
 =============
-
-for MOSS
-
-![horizontal line](media/image22.png){width="6.5in" height="0.4947922134733158in"}
-==================================================================================
-
-User's Manual: Table of Contents
-================================
-
-![horizontal line](media/image22.png){width="6.5in"
-height="2.7777777777777776e-2in"}
-
-**[User's Manual: Table of Contents](#users-manual-table-of-contents)
-29**
-
-> [Requirements](#requirements) 30
->
-> [System Requirements](#system-requirements-1) 30
->
-> [Program Dependencies](#program-dependencies) 30
->
-> [Installation](#installation) 30
->
-> [Set Up](#set-up) 31
->
-> [QuickMenu](#quickmenu) 31
->
-> [BootMenu](#bootmenu) 31
->
-> [Change Image](#change-image) 32
->
-> [Change Boot Order](#change-boot-order) 33
 
 Requirements
 ------------
@@ -670,7 +420,7 @@ the application work effectively. If this is the first time starting the
 app, you should:
 
 -   Make sure Ubuntu is your Primary OS. To do that, follow the steps on
-    > **Change Boot Order.**
+    **Change Boot Order.**
 
 -   Make sure your boot images are correct. See **Change Image.**
 
@@ -719,34 +469,25 @@ of the Primary and Secondary boots, as they are the only two that appear
 on the QuickMenu.
 
 1.  After opening the MOSS app, click the gear icon at the top left
-    > corner of the QuickMenu.
+    corner of the QuickMenu.
 
-> ![](media/image21.png){width="3.3618646106736656in"
-> height="2.0329866579177605in"}
-
-2.  You should now see the BootMenu (as seen below).
-
-> ![](media/image8.png){width="3.807292213473316in"
-> height="2.339676290463692in"}
+2.  You should now see the BootMenu.
 
 3.  Click "Load" to load all local boot options to the pane.
 
 4.  In our scenario, we have "Ubuntu", "Windows Boot Manager", "EFI USB
-    > Device", "EFI DVD/CDROM", and "EFI Network" as our boot options.
-    > "Windows Boot Manager" is in our secondary (\#2) position, and we
-    > want to change the image associated with it.
-
-> ![](media/image9.png){width="3.7805883639545055in"
-> height="2.3350699912510935in"}
+    Device", "EFI DVD/CDROM", and "EFI Network" as our boot options.
+    "Windows Boot Manager" is in our secondary (\#2) position, and we
+    want to change the image associated with it.
 
 5.  Click on the "Windows Boot Manager" entry on the BootOrder pane.
 
 6.  While "Windows Boot Manager" is selected, navigate to the left side
-    > of the pane and paste the path to the new image in the text box.
-    > Then click "Set".
+    of the pane and paste the path to the new image in the text box.
+    Then click "Set".
 
 7.  Close all MOSS tabs and reopen the app. The new image should now be
-    > on the second button in the QuickMenu.
+    on the second button in the QuickMenu.
 
 Change Boot Order
 -----------------
@@ -756,32 +497,23 @@ or boot \#1, but you follow the same steps to change any "OS" to
 position \#X.
 
 1.  After opening the MOSS app, click the gear icon at the top left
-    > corner of the QuickMenu (as seen below).
-
-> ![](media/image21.png){width="3.5461964129483814in"
-> height="2.1475699912510935in"}
+    corner of the QuickMenu (as seen below).
 
 2.  You should now see the BootMenu (as seen below).
-
-> ![](media/image8.png){width="3.5989588801399823in"
-> height="2.233199912510936in"}
 
 3.  Click "Load" to load all local boot options to the pane.
 
 4.  In our scenario, we have "Windows Boot Manager", "Ubuntu", "EFI USB
-    > Device", "EFI DVD/CDROM", and "EFI Network" as our boot options.
-
-> ![](media/image4.png){width="3.6406255468066493in"
-> height="2.229371172353456in"}
+    Device", "EFI DVD/CDROM", and "EFI Network" as our boot options.
 
 5.  Click on the "Ubuntu" entry on the BootOrder pane.
 
 6.  While "Ubuntu" is selected, navigate to the left side of the pane
-    > and select the dropdown box. Select \#1 and press the "Set"
-    > button.
+    and select the dropdown box. Select \#1 and press the "Set"
+    button.
 
 7.  Hit "Load" again, "Ubuntu" should be at the top of the list as seen
-    > in the first photo. It is now in the Primary, or \#1 position.
+    in the first photo. It is now in the Primary, or \#1 position.
 
   **Project Name:**   **MOSS**
   ------------------- -------------------
