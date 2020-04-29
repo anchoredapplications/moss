@@ -178,7 +178,4 @@ position \#X.
 7.  Hit "Load" again, "Ubuntu" should be at the top of the list as seen
     in the first photo. It is now in the Primary, or \#1 position.
 
-  **Project Name:**   **MOSS**
-  ------------------- -------------------
-  **Date:**           **4/28/2020**
-  **Prepared By:**    **Jeremiah Gage**
+Link to tutorial: https://www.youtube.com/watch?v=NkE7mKvBHmE
