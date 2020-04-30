@@ -180,4 +180,4 @@ position \#X.
 
 
 
-[Link to tutorial](https://www.youtube.com/watch?v=NkE7mKvBHmE)
+[Click here to watch a tutorial over the installation and set-up.](https://www.youtube.com/watch?v=NkE7mKvBHmE)
