@@ -178,4 +178,6 @@ position \#X.
 7.  Hit "Load" again, "Ubuntu" should be at the top of the list as seen
     in the first photo. It is now in the Primary, or \#1 position.
 
-Link to tutorial: https://www.youtube.com/watch?v=NkE7mKvBHmE
+
+
+[Link to tutorial](https://www.youtube.com/watch?v=NkE7mKvBHmE)
